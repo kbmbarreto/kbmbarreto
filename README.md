@@ -5,7 +5,7 @@
 <br>
 <br><b>Tecnologias:</b>
 <br>
-<br><b>Java:</b>                {▓░░░░░░░░░}
+<br><b>Java:</b>                &nbsp &nbsp &nbsp{▓░░░░░░░░░}
 <br><b>C#:</b>                  {▓▓░░░░░░░░}
 <br><b>MS SQL Server:</b>       {▓▓▓▓░░░░░░}
 <br><b>MySQL:</b>               {▓▓░░░░░░░░}
