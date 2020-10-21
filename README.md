@@ -3,9 +3,18 @@
 <br>Contato: kleber.barreto@msn.com
 <br>Linkedin: https://www.linkedin.com/in/kleberbarreto/
 <br>
+<br><b>Tecnologias:</b>
+<br>
+<br><b>Java:</b> {▓░░░░░░░░░}
+<br><b>C#:</b> {▓▓░░░░░░░░}
+<br><b>MS SQL Server:</b> {▓▓▓▓░░░░░░}
+<br><b>MySQL:</b> {▓▓░░░░░░░░}
+<br><b>Microsoft Power BI:</b> {▓▓▓▓░░░░░░}
+<br><b>Linux:</b> {▓▓▓▓░░░░░░}
+<br><b>Windows</b> {▓▓▓▓▓▓▓▓▓░}
+<br> 
 
-
-
+<i>Jó 5:18 /<i>
 <!--
 **kbmbarreto/kbmbarreto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 👋 ⚡
