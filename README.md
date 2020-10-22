@@ -27,7 +27,7 @@
 <br><b>Microsoft Power BI:</b>  &nbsp; {▓▓▓▓░░░░░░}
 <br> Criação de dashboards com funções simples, integração com diversas fontes de dados
 <br>
-<br><b>Microsoft Azure:</b>     &nbsp; &nbsp; {▓▓▓▓░░░░░░}
+<br><b>Microsoft Azure:</b>     &nbsp; &nbsp; &nbsp; {▓▓▓▓░░░░░░}
 <br> Administração, criação de ambientes, backup e restore, administração de banco de dados
 <br>
 <br><b>Linux:</b>               &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {▓▓▓▓░░░░░░}
