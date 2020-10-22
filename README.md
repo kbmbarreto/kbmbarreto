@@ -13,10 +13,10 @@
 <br><b>Skills:</b>
 <br>
 <br><b>Java:</b>                &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {▓░░░░░░░░░}
-<br> Java Web, JDBC, Selenium
+<br> Java Web, JDBC, automação de testes com Selenium
 <br>
 <br><b>C#:</b>                  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {▓▓░░░░░░░░}
-<br> Aplicações desktop com ODBC, Selenium
+<br> Aplicações desktop com ODBC, automação de testes com Selenium
 <br>
 <br><b>MS SQL Server:</b>       &nbsp; &nbsp; &nbsp; &nbsp; {▓▓▓▓░░░░░░}
 <br> Criação, configuração e administração de bancos de dados
@@ -24,8 +24,8 @@
 <br><b>MySQL:</b>               &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {▓▓░░░░░░░░}
 <br> Criação, configuração e administração de bancos de dados
 <br>
-<br><b>Microsoft Power BI:</b>  &nbsp; {▓▓▓▓░░░░░░}
-<br> Criação de dashboards com funções simples, integração com diversas fontes de dados
+<br><b>Microsoft Power BI:</b>  &nbsp; {▓▓░░░░░░░░}
+<br> Criação de dashboards com funções simples, integração com diversas fontes de dados, administração da infraestrutura
 <br>
 <br><b>Microsoft Azure:</b>     &nbsp; &nbsp; &nbsp; {▓▓▓▓░░░░░░}
 <br> Administração, criação de ambientes, backup e restore, administração de banco de dados
