@@ -6,7 +6,7 @@
 <br><b>Tecnologias:</b>
 <br>
 <br><b>Java:</b>                &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {▓░░░░░░░░░}
-<br><b>C#:</b>                  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {▓▓░░░░░░░░}
+<br><b>C#:</b>                  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {▓▓░░░░░░░░}
 <br><b>MS SQL Server:</b>       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {▓▓▓▓░░░░░░}
 <br><b>MySQL:</b>               &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {▓▓░░░░░░░░}
 <br><b>Microsoft Power BI:</b>  &nbsp; {▓▓▓▓░░░░░░}
