@@ -16,7 +16,7 @@
 <br> Java Web, JDBC, Selenium
 <br>
 <br><b>C#:</b>                  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {▓▓░░░░░░░░}
-<br> Aplicações desktop com ODBC, debug, Selenium
+<br> Aplicações desktop com ODBC, Selenium
 <br>
 <br><b>MS SQL Server:</b>       &nbsp; &nbsp; &nbsp; &nbsp; {▓▓▓▓░░░░░░}
 <br> Criação, configuração e administração de bancos de dados
