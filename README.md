@@ -7,18 +7,25 @@
 <br>
 <br><b>Java:</b>                &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {▓░░░░░░░░░}
 <br> Java Web, JDBC, Selenium
+<br>
 <br><b>C#:</b>                  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {▓▓░░░░░░░░}
 <br> Aplicações desktop com ODBC, debug, Selenium
+<br>
 <br><b>MS SQL Server:</b>       &nbsp; &nbsp; &nbsp; &nbsp; {▓▓▓▓░░░░░░}
 <br> Criação, configuração e administração de bancos de dados
+<br>
 <br><b>MySQL:</b>               &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {▓▓░░░░░░░░}
 <br> Criação, configuração e administração de bancos de dados
+<br>
 <br><b>Microsoft Power BI:</b>  &nbsp; {▓▓▓▓░░░░░░}
 <br> Criação de dashboards com funções simples, integração com diversas fontes de dados
+<br>
 <br><b>Microsoft Azure:</b>     &nbsp; &nbsp; {▓▓▓▓░░░░░░}
 <br> Administração, criação de ambientes, backup e restore, administração de banco de dados
+<br>
 <br><b>Linux:</b>               &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {▓▓▓▓░░░░░░}
 <br> Administração e configurção
+<br>
 <br><b>Windows:</b>             &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {▓▓▓▓▓▓▓▓▓░}
 <br> Administração de Windows Cliente/Servidor, AD, Server Core
 <br> 
