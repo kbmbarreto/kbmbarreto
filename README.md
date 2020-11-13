@@ -12,7 +12,7 @@
 
 <br><b>Skills:</b>
 <br>
-<br><b>Java:</b>                &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {▓░░░░░░░░░}
+<br><b>Java:</b>                &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {▓▓░░░░░░░░}
 <br> Java Web, JDBC, automação de testes com Selenium
 <br>
 <br><b>C#:</b>                  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {▓▓░░░░░░░░}
