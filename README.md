@@ -24,7 +24,7 @@
 <br><b>MySQL:</b>               &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {▓▓░░░░░░░░}
 <br> Criação, configuração e administração de bancos de dados
 <br>
-<br><b>Microsoft Power BI:</b>  &nbsp; {▓▓░░░░░░░░}
+<br><b>Microsoft Power BI:</b>  &nbsp; {▓▓▓▓▓░░░░░}
 <br> Criação de dashboards com funções simples, integração com diversas fontes de dados, administração da infraestrutura
 <br>
 <br><b>Microsoft Azure:</b>     &nbsp; &nbsp; &nbsp; {▓▓▓▓░░░░░░}
