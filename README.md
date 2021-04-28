@@ -13,7 +13,7 @@
 <br><b>Skills:</b>
 <br>
 <br><b>Java:</b>                &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {▓▓▓░░░░░░░}
-<br> Java Web, JDBC, automação de testes com Selenium
+<br> Java Web, Java Swing, JDBC, automação de testes com Selenium
 <br>
 <br><b>C#:</b>                  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {▓░░░░░░░░░}
 <br> Aplicações desktop com ODBC, automação de testes com Selenium
