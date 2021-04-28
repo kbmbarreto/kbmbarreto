@@ -4,9 +4,9 @@
 <br>Linkedin: https://www.linkedin.com/in/kleberbarreto/
 <br>
 
-<p>Atuando desde 2013 na área de tecnologia, possuo experiência em testes e controle de qualidade adquiridas em fábrica de software; Microsoft SQL Server (CRUD); desenvolvimento de relatórios em Power BI (DAX), desenvolvimento de testes automatizados em Java e planejamento de roteiros de teste.
+<p>Atuando desde 2013 na área de tecnologia, possuo experiência em controle de qualidade adquirida em fábrica de software; Microsoft SQL Server; desenvolvimento de relatórios em Power BI (DAX); desenvolvimento de testes automatizados em Java, C#, e frameworks/ferramentas de testes; planejamento e gestão de testes.
 <br>
-<p>Possuo sólidos conhecimentos em suporte N1, N2, migração e implantação de sistemas (coordenação); PABX virtual e físico; administração de ambientes Windows Server e LGPD (compliance e assessment).
+<p>Possuo sólidos conhecimentos em suporte e infraestrutura, migração e implantação de sistemas; PABX virtual e físico; administração de servidores e LGPD (compliance e assessment).
 <br>
 <p>Participei e desenvolvi projetos em cloud Microsoft, criação de data center’s em Azure, criação de documentações, videoaulas e manuais de aplicativos. Gestão de ITO, BPO e equipes operacionais.
 
