@@ -31,7 +31,7 @@
 <br> Administração, criação de ambientes, backup e restore, administração de banco de dados
 <br>
 <br><b>Linux:</b>               &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {▓▓▓▓░░░░░░}
-<br> Administração e configurção
+<br> Administração e configuração
 <br>
 <br><b>Windows:</b>             &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {▓▓▓▓▓▓▓▓▓░}
 <br> Administração de Windows Cliente/Servidor, AD, Server Core
