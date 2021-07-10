@@ -1,10 +1,13 @@
 ### Kleber Barreto de Macedo - Profissional de TI
 
+<br><b>DASA S.A:</b> Analista de Tecnologia Digital Pleno
+<br><b>TVF Software:</b> Analista de Qualidade de Software
+<br>
 <br>Contato: kleber.barreto@msn.com
 <br>Linkedin: https://www.linkedin.com/in/kleberbarreto/
 <br>
 
-<p>Há mais de uma década na área de tecnologia, possuo experiência em Quality Assurance adquirida em fábrica de software; MS SQL, MySQL e Oracle DB; manipulação de relatórios em Power BI; desenvolvimento de testes automatizados com Java, C#, Selenium, Cucumber, TestComplete e Sikulix; planejamento e gestão do setor de qualidade de software.
+<p>Há mais de uma década na área de tecnologia, possuo experiência em Quality Assurance adquirida em fábrica de software; MS SQL, MySQL e Oracle DB; manipulação de relatórios em Power BI; desenvolvimento de testes automatizados com Java, C#, Selenium, Cypress, Cucumber, TestComplete e Sikulix; planejamento e gestão do setor de qualidade de software.
 <br>
 <p>Possuo sólidos conhecimentos em suporte e infraestrutura, migração e implantação de sistemas; PABX virtual e físico; administração de servidores e LGPD (compliance e assessment).
 <br>
@@ -14,6 +17,9 @@
 <br>
 <br>⚡<b>Java:</b>                &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {▓▓▓▓░░░░░░}
 <br> Java Web, Java Swing, SPRING BOOT API REST, SPRING MVC, automação de testes com Selenium e Cucumber.
+<br>
+<br>⚡<b>JavaScript:</b>                &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {▓▓░░░░░░░░}
+<br> Desenvolvimento básico, automação de testes com Cypress.
 <br>
 <br>⚡<b>C#:</b>                  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {▓▓░░░░░░░░}
 <br> Aplicações desktop com ODBC, automação de testes com Selenium
