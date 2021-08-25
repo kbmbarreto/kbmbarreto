@@ -21,7 +21,8 @@
 
 ##
 <div>
-  <img align="center" alt="Kleber-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" style="max-width:100%;">
+  <img align="center" alt="Kleber-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" style="max-width:100%;"> Desenvolvedor Java Jr, desenvolvimento de testes automatizados em Java;
+  <br>
   <img align="center" alt="Kleber-Csharp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" style="max-width:100%;">
   <img align="center" alt="Kleber-Ruby" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-plain.svg" style="max-width:100%;">
   <img align="center" alt="Kleber-JS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" style="max-width:100%;">
