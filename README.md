@@ -21,6 +21,7 @@
 
 ##
 ### Skils - Habilidades Dev e QA
+<br>
 <div>
   <img align="center" alt="Kleber-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" style="max-width:100%;"> Desenvolvedor Java Jr, desenvolvimento de testes automatizados em Java;
   <br>
