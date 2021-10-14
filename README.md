@@ -31,7 +31,7 @@
   <br>
   <img align="center" alt="Kleber-JS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" style="max-width:100%;"> Desenvolvimento de testes automatizados com Js e Cypress;
   <br>
-  <img align="center" alt="Kleber-Spring" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" style="max-width:100%;"> Desenvolvimento Java com Spring (MVD, REST API);
+  <img align="center" alt="Kleber-Spring" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" style="max-width:100%;"> Desenvolvimento Java com Spring (MVC, REST API);
   <br>
   <img align="center" alt="Kleber-React" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" style="max-width:100%;"> Desenvolvimento front-end básico;
   <br>
