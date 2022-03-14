@@ -33,13 +33,9 @@
   <br>
   <img align="center" alt="Kleber-Spring" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" style="max-width:100%;"> Desenvolvimento Java com Spring (MVC, REST API);
   <br>
-  <img align="center" alt="Kleber-React" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" style="max-width:100%;"> Desenvolvimento front-end básico;
-  <br>
   <img align="center" alt="Kleber-MsSQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" style="max-width:100%;"> Desenvolvimento e administração de banco de dados com Microsoft SQL Server;
   <br>
   <img align="center" alt="Kleber-MySQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" style="max-width:100%;"> Desenvolvimento e administração de banco de dados com MySQL;
-  <br>
-  <img align="center" alt="Kleber-Jenkins" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" style="max-width:100%;"> Administração básica do Jenkins.
   <br>
 </div>
 
