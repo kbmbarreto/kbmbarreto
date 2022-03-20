@@ -1,4 +1,5 @@
-### Kleber Barreto de Macedo - Profissional de TI
+### Kleber Barreto de Macedo
+<p>Analista de sistemas</p>
 
 <br><b>DASA S.A:</b> Analista de Tecnologia Digital Pleno
 <br><b>TVF Software:</b> Analista de Qualidade de Software
@@ -7,7 +8,7 @@
 <br>Linkedin: https://www.linkedin.com/in/kleberbarreto/
 <br>
 
-<p>Há mais de uma década na área de tecnologia, possuo experiência em Quality Assurance adquirida em fábrica de software; MS SQL, MySQL e Oracle DB; manipulação de relatórios em Power BI; desenvolvimento de testes automatizados com Java, C#, Selenium, Cypress, Cucumber, TestComplete e Sikulix; planejamento e gestão do setor de qualidade de software.
+<p>Mais de 10 anos de experiência na área de tecnologia, passando desde a montagem e configuração de desktops, notebooks e servidores até o projeto, desenvolvimento e validação de sistemas e arquiteturas em nuvem. Atualmente sou umdos responsáveis pela qualidade do aplicativo médico utilizado pelos colaboradores da maior rede de diagnósticos da America Latina.
 <br>
 <p>Possuo sólidos conhecimentos em suporte e infraestrutura, migração e implantação de sistemas; PABX virtual e físico; administração de servidores e LGPD (compliance e assessment).
 <br>
@@ -19,6 +20,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kbmbarreto&amp;layout=compact&amp;langs_count=7&amp;theme=vue-dark" style="max-width:100%;">
 </a></div>
 
+<!--
 ##
 ### Skils - Habilidades Dev e QA
 <br>
@@ -40,7 +42,6 @@
 </div>
 
 
-<!--
 **kbmbarreto/kbmbarreto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 👋 ⚡
 
