@@ -1,14 +1,14 @@
 ### Kleber Barreto de Macedo
 <p>Analista de sistemas - Engenharia de Software - PUC-MG</p>
 
-<br><b>Resumo profissional:</b><br>
+<br><b>Contratos ativos:</b><br>
 <br><b>DASA S.A:</b> Analista de Tecnologia Digital Pleno (Tempo integral)
 <br><b>TVF Software:</b> Analista de Qualidade de Software (Free Lancer)
 <br>
 <br>Contato: kleber.barreto@msn.com
 <br>Linkedin: https://www.linkedin.com/in/kleberbarreto/
 <br>
-
+<br><b>Resumo profissional:</b><br>
 <p>Mais de 10 anos de experiência na área de tecnologia, passando desde a montagem e configuração de desktops, notebooks e servidores até o projeto, desenvolvimento e validação de sistemas e arquiteturas em nuvem. Atualmente sou umdos responsáveis pela qualidade do aplicativo médico utilizado pelos colaboradores da maior rede de diagnósticos da America Latina.
 <br>
 <p>Possuo sólidos conhecimentos em suporte e infraestrutura, migração e implantação de sistemas; PABX virtual e físico; administração de servidores e LGPD (compliance e assessment).
