@@ -1,6 +1,7 @@
 ### Kleber Barreto de Macedo
-<p>Analista de sistemas</p>
+<p>Analista de sistemas - Engenharia de Software - PUC-MG</p>
 
+<p>Resumo profissional:</p>
 <br><b>DASA S.A:</b> Analista de Tecnologia Digital Pleno
 <br><b>TVF Software:</b> Analista de Qualidade de Software
 <br>
