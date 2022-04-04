@@ -9,7 +9,7 @@
 <br>Linkedin: https://www.linkedin.com/in/kleberbarreto/
 <br>
 <br><b>Resumo profissional:</b><br>
-<p>Mais de 10 anos de experiência na área de tecnologia, passando desde a montagem e configuração de desktops, notebooks e servidores até o projeto, desenvolvimento e validação de sistemas e arquiteturas em nuvem. Atualmente sou umdos responsáveis pela qualidade do aplicativo médico utilizado pelos colaboradores da maior rede de diagnósticos da America Latina.
+<p>Mais de 10 anos de experiência na área de tecnologia, passando desde a montagem e configuração de desktops, notebooks e servidores até o projeto, desenvolvimento e validação de sistemas e arquiteturas em nuvem. Atualmente sou um dos responsáveis pela qualidade dos aplicativos médicos utilizados pelos colaboradores da maior rede de diagnósticos da America Latina.
 <br>
 <p>Possuo sólidos conhecimentos em suporte e infraestrutura, migração e implantação de sistemas; PABX virtual e físico; administração de servidores e LGPD (compliance e assessment).
 <br>
