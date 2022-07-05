@@ -15,11 +15,7 @@
 <br>
 <p>Participei e desenvolvi projetos em cloud Microsoft Azure, criação de data center’s na nuvem para grandes empresas, criação de documentações, videoaulas e manuais. Gestão de ITO, BPO, equipes operacionais e sustentação de data center on-premisses e nuvem.
 <br>
- <div>
-  <a href="https://github.com/kbmbarreto">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kbmbarreto&amp;show_icons=true&amp;theme=vue-dark&amp;include_all_commits=true&amp;count_private=true" style="max-width:100%;">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kbmbarreto&amp;layout=compact&amp;langs_count=7&amp;theme=vue-dark" style="max-width:100%;">
-</a></div>
+
 
 ### Principais Skils
 <br>
