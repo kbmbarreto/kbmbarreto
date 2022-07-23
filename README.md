@@ -22,17 +22,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kbmbarreto&amp;layout=compact&amp;langs_count=7&amp;theme=vue-dark" style="max-width:100%;">
 </a></div>
 
-### Principais Skils
-<br>
-<div>
-  <img align="center" alt="Kleber-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" style="max-width:100%;">
-   <img align="center" alt="Kleber-Spring" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" style="max-width:100%;">
-  <img align="center" alt="Kleber-Csharp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" style="max-width:100%;">
-  <img align="center" alt="Kleber-Ruby" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-plain.svg" style="max-width:100%;">
-  <img align="center" alt="Kleber-JS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" style="max-width:100%;">
-  <img align="center" alt="Kleber-MySQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" style="max-width:100%;">
-</div>
-
 <!--
 **kbmbarreto/kbmbarreto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 👋 ⚡
