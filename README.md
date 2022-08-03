@@ -23,8 +23,7 @@
 </a></div>
 
 
-<details open="open">
-  <summary>Principais áreas de conhecimento</summary>
+  <p>Principais áreas de conhecimento</p>
   <ul>
     <p />
 
@@ -137,7 +136,7 @@
       </tr>
     </table>
   </ul>
-</details>
+
 
 
 <!--
