@@ -10,10 +10,10 @@
   <p>Resumo profissional:</p>
   
   <ul>
-    <li> Atuando com infraestrutura entre 2009 e 2019;</li>
-    <li> Transição de carreira para área de sistemas, onde atuo desde 2019;</li>
+    <li> Atuando com infraestrutura entre 2007 e 2019;</li>
+    <li> Transição de carreira em 2019;</li>
+    <li> Atuando com sistemas desde 2019;</li>
     <li> Pós graduando em Engenharia de Software pela <a href="https://www.pucminas.br/">PUC-MG</a></li>
-    <li> Estou cursando o módulo de Backend</li>
     <li> Analista de Tecnologia Digital Sênior na <a href="https://dasa.com.br/">DASA S.A</a></li>
     <li> Analista de qualidade freelancer na <a href="http://www.tvfsoftware.com/">TVF Software</a></li>
   </ul>
