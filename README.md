@@ -1,12 +1,7 @@
 <h1 align="center">Olá 👋, me chamo Kleber Barreto de Macedo 👨‍💻☕ </h1>
-<h6 align="center">Localidade: Taubaté/SP - Brasil</h6>
-
-<p align="center">
------------------------------------------------
-</p>
 
 <h4 align="center">
-	Sou engenheiro de qualidade de software! Desenvolvedor em costante aprendizado.
+	Analista de qualidade de software! Desenvolvedor em costante aprendizado.
 </h4>
 
 -----------------------------------------------
