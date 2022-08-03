@@ -37,6 +37,7 @@
 
 <details open="open">
   <summary>Tecnologias que conheço:</summary>
+  <br>
   <ul>
     <table align="center">
       <tr>
@@ -46,13 +47,13 @@
       <tr>
         <td>Analytics</td>
         <td><b>Dynatrace</b></td>
-        <td><img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" /></td>
+        <td><img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/></td>
       </tr>
       <tr>
         <td>Cloud</td>
-        <td><img src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" /></td>
-        <td><img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white" /></td>
-        <td><img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" /></td>
+        <td><img src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/></td>
+        <td><img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white"/></td>
+        <td><img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/></td>
       </tr>
       <tr>
         <td>Data</td>
