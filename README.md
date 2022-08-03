@@ -23,7 +23,8 @@
 </a></div>
 
 
-  <p>Principais áreas de conhecimento</p>
+<details open="open">
+  <summary>Tecnologias exploradas</summary>
   <ul>
     <p />
 
