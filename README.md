@@ -1,33 +1,43 @@
-### Kleber Barreto de Macedo
-<p>Analista de sistemas - Engenharia de Software - PUC-MG</p>
+<h1 align="center">Olá 👋, me chamo Kleber Barreto de Macedo 👨‍💻☕ </h1>
+<h6 align="center">Localidade: Taubaté/SP - Brasil</h6>
 
-<br><b>Contratos ativos:</b><br>
-<br><b>DASA S.A:</b> Analista de Tecnologia Digital Pleno (Tempo integral)
-<br><b>TVF Software:</b> Analista de Qualidade de Software (Free Lancer)
-<br>
-<br>Contato: kleber.barreto@msn.com
-<br>Linkedin: https://www.linkedin.com/in/kleberbarreto/
-<br>
-<br><b>Resumo profissional:</b><br>
-<p>Mais de 10 anos de experiência na área de tecnologia, passando desde a montagem e configuração de desktops, notebooks e servidores até o projeto, desenvolvimento e validação de sistemas e arquiteturas em nuvem. Atualmente sou um dos responsáveis pela qualidade dos aplicativos médicos utilizados pelos colaboradores da maior rede de diagnósticos da America Latina.
-<br>
-<p>Possuo sólidos conhecimentos em suporte e infraestrutura, migração e implantação de sistemas; PABX virtual e físico; administração de servidores e LGPD (compliance e assessment).
-<br>
-<p>Participei e desenvolvi projetos em cloud Microsoft Azure, criação de data center’s na nuvem para grandes empresas, criação de documentações, videoaulas e manuais. Gestão de ITO, BPO, equipes operacionais e sustentação de data center on-premisses e nuvem.
-<br>
+<p align="center">
+-----------------------------------------------
+</p>
 
-   <div>
-  <a href="https://github.com/kbmbarreto">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kbmbarreto&amp;show_icons=true&amp;theme=vue-dark&amp;include_all_commits=true&amp;count_private=true" style="max-width:100%;">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kbmbarreto&amp;layout=compact&amp;langs_count=7&amp;theme=vue-dark" style="max-width:100%;">
-</a></div>
+<h4 align="center">
+	Sou engenheiro de qualidade de software! Desenvolvedor em costante aprendizado.
+</h4>
 
+-----------------------------------------------
+
+<h4>
+  <p>Resumo profissional:</p>
+  
+  <ul>
+    <li>-> Atuando com infraestrutura entre 2009 e 2019;</li>
+    <li>-> Transição de carreira para área de sistemas, onde atuo desde 2019;</li>
+    <li>-> Pós graduando em Engenharia de Software pela <a href="https://www.pucminas.br/">PUC-MG</a></li>
+    <li>-> Estou cursando o módulo de Backend</li>
+    <li>-> Analista de Tecnologia Digital Sênior na <a href="https://dasa.com.br/">DASA S.A</a></li>
+    <li>-> Analista de qualidade freelancer na <a href="http://www.tvfsoftware.com/">TVF Software</a></li>
+  </ul>
+</h4>
+
+<h6 align="center">
+  <a href="https://www.linkedin.com/in/kleberbarreto/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://kbminfo.wordpress.com/">
+    <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+  </a>
+</h6>
+
+-----------------------------------------------
 
 <details open="open">
-  <summary>Tecnologias exploradas</summary>
+  <summary>Tecnologias que conheço:</summary>
   <ul>
-    <p />
-
     <table align="center">
       <tr>
         <td>Área</td>
@@ -137,21 +147,12 @@
       </tr>
     </table>
   </ul>
+</details>
 
+<br>
 
-
-<!--
-**kbmbarreto/kbmbarreto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-👋 ⚡
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <a href="https://github.com/kbmbarreto">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kbmbarreto&amp;show_icons=true&amp;theme=vue-dark&amp;include_all_commits=true&amp;count_private=true" style="max-width:100%;">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kbmbarreto&amp;layout=compact&amp;langs_count=7&amp;theme=vue-dark" style="max-width:100%;">
+</a></div>
