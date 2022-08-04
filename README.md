@@ -154,5 +154,5 @@
 
 <div><center>
   <a href="https://github.com/kbmbarreto">
-  <img height="280em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kbmbarreto&amp;layout=demo&amp;langs_count=7&amp;theme=vue-dark" style="max-width:100%;">
+  <img height="480em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kbmbarreto&amp;layout=demo&amp;langs_count=7&amp;theme=vue-dark" style="max-width:100%;">
 </a></div>
