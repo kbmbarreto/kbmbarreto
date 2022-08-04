@@ -10,7 +10,7 @@
   <p>Resumo profissional:</p>
   
   <ul>
-    <li> Atuando com infraestrutura entre 2007 e 2019;</li>
+    <li> Atuei com infraestrutura e cloud entre 2007 e 2019;</li>
     <li> Transição de carreira em 2019;</li>
     <li> Atuando com sistemas desde 2019;</li>
     <li> Pós graduando em Engenharia de Software pela <a href="https://www.pucminas.br/">PUC-MG</a></li>
