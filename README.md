@@ -1,7 +1,8 @@
 <h1 align="center">Olá 👋, me chamo Kleber Barreto de Macedo 👨‍💻☕ </h1>
 
 <h4 align="center">
-	Analista de qualidade de software! Desenvolvedor em costante aprendizado.
+	Atualmente responsável pela qualidade dos apps mobile para profissionais da Dasa, a maior rede de saúde integrada do Brasil e líder em medicina diagnóstica no Brasil e na América Latina.
+
 </h4>
 
 -----------------------------------------------
