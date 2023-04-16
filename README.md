@@ -14,7 +14,7 @@
     <li> Atuei com suporte, infraestrutura e cloud entre 2007 e 2019;</li>
     <li> Transição de carreira, atuando com sistemas desde 2019;</li>
     <li> Pós graduando em Engenharia de Software pela <a href="https://www.pucminas.br/">PUC-MG</a></li>
-    <li> Analista de Tecnologia Digital Sênior na <a href="https://dasa.com.br/">DASA S.A</a></li>
+    <li> Co-founder em uma healthtech </li>
     <li> Analista de Qualidade Sênior na <a href="http://www.tvfsoftware.com/">TVF Software</a></li>
   </ul>
 </h4>
