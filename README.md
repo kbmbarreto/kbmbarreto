@@ -149,10 +149,7 @@
 
 <div><center>
   <a href="https://github.com/kbmbarreto">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kbmbarreto&amp;show_icons=true&amp;theme=vue-dark&amp;include_all_commits=true&amp;count_private=true" style="max-width:100%;">
-</a></div>
-
-<div><center>
-  <a href="https://github.com/kbmbarreto">
-  <img height="480em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kbmbarreto&amp;layout=demo&amp;langs_count=7&amp;theme=vue-dark" style="max-width:100%;">
+  	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kbmbarreto&theme=vue-dark&show_icons=true&hide_border=true&count_private=true">
+	<img height="480em" src="https://github-readme-streak-stats.herokuapp.com/?user=kbmbarreto&theme=vue-dark&hide_border=true">
+	<img height="480em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kbmbarreto&theme=vue-dark&show_icons=true&hide_border=true&layout=compact">
 </a></div>
