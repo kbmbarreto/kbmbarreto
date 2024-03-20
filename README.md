@@ -10,7 +10,7 @@
   <p>Resumo profissional:</p>
   
   <ul>
-    <li> Pós graduando em Engenharia de Software na <a href="https://www.pucminas.br/">PUC</a></li>
+    <li> Pós graduado em Engenharia de Software na <a href="https://www.pucminas.br/">PUC</a></li>
     <li> Co-founder da healthtech <a href="https://www.pedicalc.com.br/">Pedicalc</a></li>
     <li> Analista de Qualidade Pleno na <a href="https://www.epharma.com.br/">Epharma PBM do Brasil S.A.</a></li>
     <li> Consultor de Qualidade Sênior na <a href="https://www.tvfsoftware.com/">TVF Software</a></li>
