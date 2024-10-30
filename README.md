@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, me chamo Kleber Barreto de Macedo 👨‍💻☕ </h1>
 
 <h4 align="center">
-	Responsável por ter implementado a qualidade de aplicativos mobile na <a href="https://dasa.com.br/">DASA S.A</a>; criador da primeira automação de aplicativos mobile da <a href="https://www.epharma.com.br/">Epharma PBM do Brasil S.A.</a>.
+	Pós graduado em Engenharia de software (PUC). Responsável por ter implementado a qualidade de aplicativos mobile na <a href="https://dasa.com.br/">DASA S.A</a>; criador da primeira automação de aplicativos mobile da <a href="https://www.epharma.com.br/">Epharma PBM do Brasil S.A.</a>.
 </h4>
 
 -----------------------------------------------
