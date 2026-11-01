@@ -1,16 +1,11 @@
-<h1 align="center">Olá 👋, me chamo Kleber Barreto 👨‍💻☕ </h1>
+<h1 align="center">Olá, eu sou Kleber Barreto! 👋👨‍💻</h1>
 
-<h4 align="justify">Desenvolvedor Full Stack especialista em qualidade de software.</h4>
-<br>
-<h4 align="justify">Fui responsável pela qualidade de projetos em clientes no Brasil, Chile e México, pela TVF Software.</h4>
-<br>
-<h4 align="justify">Implementei, desde o início, a qualidade dos apps mobile da rede DASA, a maior rede de saúde integrada do Brasil e líder em medicina diagnóstica no Brasil e na América Latina.</h4>
-<br>
-<h4 align="justify">Mais de 15 anos de experiência na área de tecnologia, mesclando entre conhecimentos de infraestrutura on-premisses e nuvem, projetando e implementando soluções em empresas de pequeno, médio e grande porte.</h4>
-<br>
-<h4 align="justify">Desenvolvedor e líder técnico focado em qualidade, com experiência em consultoria fábrica de software, onde atuei em diversos clientes, de diversos seguimentos, nacionais e internacionais, implementando desde documentações até automação de testes e treinamentos corporativos.</h4>
-<br>
-<br>
+<h3 align="center">Software Engineer | Full Stack Developer | Software Quality Specialist</h3>
+
+<p align="center">
+  Engenheiro de Software apaixonado por tecnologia, arquitetura de sistemas, desenvolvimento de soluções e qualidade de software.
+</p>
+
 -----------------------------------------------
 
 <h4>
@@ -19,7 +14,7 @@
   <ul>
     <li> Pós graduado em Arquitetura de Software na <a href="https://www.puc-campinas.edu.br/">PUC Campinas</a></li>
     <li> Pós graduado em Engenharia de Software na <a href="https://www.pucminas.br/">PUC Minas</a></li>
-    <li> Analista de Qualidade Sênior na <a href="https://www.epharma.com.br/">Claranet do Brasil</a></li>
+    <li> Analista de Qualidade Sênior na <a href="https://www.claranet.com/br/">Claranet do Brasil</a></li>
     <li> Desenvolvedor Full-stack <a href="https://www.lambdateam.com.br/">Lambda Team Tecnologia</a></li>
   </ul>
 </h4>
