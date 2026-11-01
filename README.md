@@ -30,7 +30,7 @@ Ao longo da minha carreira, participei de projetos para empresas de diferentes s
 
 ### 💼 Atuação profissional
 
-- **Analista de Qualidade de Software Sênior** — [Claranet Brasil](https://www.claranet.com/br/)
+- **Analista de Qualidade de Software Sênior / Tech Lead (equipe de desenvolvimento de software)** — [Claranet Brasil](https://www.claranet.com/br/)
 - **Desenvolvedor Full Stack** — [Lambda Team Tecnologia](https://www.lambdateam.com.br/)
 
 ### 🌎 Experiência em destaque
