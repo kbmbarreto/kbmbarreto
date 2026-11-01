@@ -1,21 +1,16 @@
 <h1 align="center">Olá 👋, me chamo Kleber Barreto 👨‍💻☕ </h1>
 
-<h4 align="justify">
-
-	Desenvolvedor Full Stack especialista em qualidade de software.
-
-    Fui responsável pela qualidade de projetos em clientes no Brasil, Chile e México, pela TVF Software.
-
-    Implementei, desde o início, a qualidade dos apps mobile da rede DASA, a maior rede de saúde integrada do Brasil e líder em medicina diagnóstica no Brasil e na América Latina.
-
-    Mais de 15 anos de experiência na área de tecnologia, mesclando entre conhecimentos de infraestrutura on-premisses e nuvem, 
-    projetando e implementando soluções em empresas de pequeno, médio e grande porte.
-
-    Desenvolvedor e líder técnico focado em qualidade, com experiência em consultoria fábrica de software, onde atuei em diversos clientes, 
-    de diversos seguimentos, nacionais e internacionais, implementando desde documentações até automação de testes e treinamentos corporativos..
-
-</h4>
-
+<h4 align="justify">Desenvolvedor Full Stack especialista em qualidade de software.</h4>
+<br>
+<h4 align="justify">Fui responsável pela qualidade de projetos em clientes no Brasil, Chile e México, pela TVF Software.</h4>
+<br>
+<h4 align="justify">Implementei, desde o início, a qualidade dos apps mobile da rede DASA, a maior rede de saúde integrada do Brasil e líder em medicina diagnóstica no Brasil e na América Latina.</h4>
+<br>
+<h4 align="justify">Mais de 15 anos de experiência na área de tecnologia, mesclando entre conhecimentos de infraestrutura on-premisses e nuvem, projetando e implementando soluções em empresas de pequeno, médio e grande porte.</h4>
+<br>
+<h4 align="justify">Desenvolvedor e líder técnico focado em qualidade, com experiência em consultoria fábrica de software, onde atuei em diversos clientes, de diversos seguimentos, nacionais e internacionais, implementando desde documentações até automação de testes e treinamentos corporativos.</h4>
+<br>
+<br>
 -----------------------------------------------
 
 <h4>
