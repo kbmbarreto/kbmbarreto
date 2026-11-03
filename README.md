@@ -69,5 +69,5 @@ Atualmente, meu foco está no desenvolvimento de soluções escaláveis, na impl
 
 <p align="center">
   <b>ASTFC</b> &nbsp;&nbsp; | &nbsp;&nbsp;
-  <b>Fortinet Certified Fundamentals in Cybersecurity (FCF)</b>
+  <b>Fortinet NSE-2</b>
 </p>
