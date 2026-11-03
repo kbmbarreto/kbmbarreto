@@ -17,11 +17,13 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou desenvolvedor **Full Stack** e especialista em **Qualidade de Software**, com mais de 15 anos de experiência em tecnologia e atuação em projetos nacionais e internacionais.
+**Engenheiro de Software e Desenvolvedor Full Stack, especialista em Qualidade de Software**, com mais de 15 anos de experiência em tecnologia, atuando em desenvolvimento de sistemas, arquitetura de software, infraestrutura e liderança técnica.
 
-Minha trajetória profissional combina conhecimentos em **Engenharia de Software, Arquitetura de Sistemas, Desenvolvimento Full Stack, Quality Assurance (QA), Cloud Computing, DevOps e DevSecOps**.
+Ao longo da minha carreira, **participei de projetos nacionais e internacionais**, atendendo empresas de diferentes portes e segmentos, com atuação em Engenharia de Software, Quality Assurance, Cloud Computing, DevOps e DevSecOps.
 
-Ao longo da minha carreira, participei de projetos para empresas de diferentes segmentos, atuando desde a definição de processos e arquiteturas até o desenvolvimento, implementação e garantia da qualidade de soluções tecnológicas.
+Entre minhas experiências, destaco a responsabilidade pela qualidade de **projetos no Brasil, Chile e México, por meio da TVF Software**, e a estruturação dos processos de qualidade dos aplicativos mobile da **DASA, uma das maiores redes de saúde da América Latina**.
+
+Atualmente, meu foco está no desenvolvimento de soluções escaláveis, na implementação de boas práticas de engenharia e na evolução contínua da qualidade de software, integrando desenvolvimento, automação, segurança e processos.
 
 ### 🎓 Formação acadêmica
 
