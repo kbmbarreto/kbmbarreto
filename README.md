@@ -66,7 +66,7 @@ Atualmente, meu foco está no desenvolvimento de soluções escaláveis, na impl
     />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.credly.com/badges/c9e17259-ead9-47ed-9e2a-956dc82213f9/public_url" target="_blank">
+  <a href="https://www.credly.com/badges/d61c1444-02d7-48f4-a218-de58378ac0ca/public_url" target="_blank">
     <img
       src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png"
       alt="AWS Certified Cloud Practitioner"
