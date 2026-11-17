@@ -68,7 +68,7 @@ Atualmente, meu foco está no desenvolvimento de soluções escaláveis, na impl
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.credly.com/badges/c9e17259-ead9-47ed-9e2a-956dc82213f9/public_url" target="_blank">
     <img
-      src="https://images.credly.com/size/340x340/images/22a0ece5-ff05-4594-8320-25e55e9ae203/image.png)"
+      src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png"
       alt="AWS Certified Cloud Practitioner"
       width="150"
     />
@@ -77,5 +77,6 @@ Atualmente, meu foco está no desenvolvimento de soluções escaláveis, na impl
 
 <p align="center">
   <b>ASTFC</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>Fortinet NSE-2</b> | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>AWS Cloud Practitioner</b>
+  <b>Fortinet NSE-2</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>AWS Cloud Practitioner</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
